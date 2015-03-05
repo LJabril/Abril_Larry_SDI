@@ -44,5 +44,44 @@ a + 3;
 a = a+3
 console.log(a);
 
+//Decleare a new variable.
+var b;
+
+//Define this variable using an existing variable.
+b = a+3;
+console.log(a);
+console.log(b);
+
+//Simple math
+//Find our ages
+
+//Declare and define the year we were born
+var yearBorn = 1984;
+// 2015 - year we are born
+var ourAge = 2015-yearBorn;
+console.log(ourAge);
+
+//Talk about Math
+// +, -, *, /
+
+//Find the are of the triangle
+// base * height / 2
+var base = 8;
+var height = 5;
+var areaTriangle = base*height/2;
+console.log(areaTriangle);
+
+// Modulo - %
+// Gives the reminder
+var decimal = 32/10;
+console.log(decimal);
+var reminder = 32%10;
+console.log(reminder);
+
+//Find out if even or odd
+// %2 1=odd 0=even
+var evenOrOdd = 67%2;
+console.log(evenOrOdd);
+
 
 
