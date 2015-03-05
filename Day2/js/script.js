@@ -83,5 +83,79 @@ console.log(reminder);
 var evenOrOdd = 67%2;
 console.log(evenOrOdd);
 
+//Assignment Operators
+/*
+= Assigns the values to the variable.
+++ adds 1 to the current valuable of the variable
+-- subtract 1 from the current value of a variable
++= # Adds the # to the current of the variable
+-= # subtracts the # from the value of the variable
+/= # divide the current value by the #
+*= # multiply the current value by the number
+ */
+var assign = 0;
+
+// ++ is the same as assign = assign+1;
+assign++;
+console.log(assign);
+
+// -- is the same as a assign = assign-1;
+assign--;
+console.log(assign);
+
+// += # is the same as assign = assign + #;
+assign +=5;
+console.log(assign);
+
+// -= is the same as assign = assign - #;
+assign -=2;
+console.log(assign);
+
+// /= is the same as assign = assign/#;
+assign/=3;
+console.log(assign);
+
+// *= is the same as assign = assign *=;
+assign *=7;
+console.log(assign);
+
+//String - any text that we use
+// Quotes are needed to distinguish between variables and plain text.
+
+var kermit = "light green";
+var frogName = "kermit";
+console.log(frogName);
+
+//to double quote or not to double
+// can you use an escape character in front of the \
+var phrase = 'I don\'t know';
+console.log(phrase);
+
+//escape character can also do multiple lines \n - new line character
+var phrase2 = "I don't know. \nYou never do!";
+console.log(phrase2);
+
+// boolean kind of like a light switch
+//either true or false
+//not a text string and must be lower case!!
+var yes = true;
+
+var no = false;
+
+//order of operations
+// PEMDAS Please Excuse My Dear Aunt Sally
+// Parenthesis , Exponents, Multiplication, Division, Addition, Subtraction
+
+// find the average quiz grade
+
+var quiz1 = 87;
+var quiz2 = 100;
+var quiz3 = 90;
+
+// Average is add them up and divide by the number of quizes.
+var average = (quiz1 + quiz2 + quiz3) /3;
+console.log(average);
+
+
 
 
