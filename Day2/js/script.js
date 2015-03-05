@@ -156,6 +156,36 @@ var quiz3 = 90;
 var average = (quiz1 + quiz2 + quiz3) /3;
 console.log(average);
 
+//concatenation - combining text string
+// use the + plus sign - add and concatenation
+
+var firstName = "kermit";
+var lastName = "the frog";
+var fullName = firstName +" "+ lastName;
+console.log(fullName);
+
+var d = "6";
+var e = "7";
+// if you want the text string to be a number you have to cast it
+//number(the text string)
+
+var combined = d+e;
+console.log(combined);
+
+var pi = 3.14;
+
+
+// to round  a number we use .toFixed(#)
+var num = 5.5678912345;
+
+//round to 2 decimal places
+var n = num.toFixed(2);
+console.log(n);
+
+
+
+
+
 
 
 
