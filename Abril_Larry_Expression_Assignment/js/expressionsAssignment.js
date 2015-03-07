@@ -13,7 +13,7 @@ Expressions Assignment
 //creating a array.
  var bill = ["electricity", "water", "cable", "carInsurance","rent"];
  //check to see if the array is ok.
- console.log(bill);
+ console.log("The following are my monthly bills to pay: " +bill);
 
 //using prompt to put value to the bills.
  var electricity =prompt("Please enter the amount of your monthly electrical bill.");
@@ -27,6 +27,12 @@ var totalMonthlyBills = parseInt(electricity) + parseInt(water) + parseInt(cable
 
 //Result of your prompt.
  console.log("If you pay all your bills in full and on time. Your monthly bill amount is $" + totalMonthlyBills + ".");
+
+//I am using an assign operator other than = symbol to find the annual monthly amount.
+ var annualMonthlyAmount = totalMonthlyBills *= 12;
+ console.log("If you continue to pay the bills monthly sharp. $" + totalMonthlyBills + " is going to be your annual monthly amount.");
+
+
 
 
 
