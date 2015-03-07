@@ -62,7 +62,7 @@ console.log("You have spent a total of $" + totalSpendOnGrocery + " on groceries
 var originalPrice = 399.99;
 console.log(originalPrice);
 
-var discountPercentage = 40;
+var discountPercentage = 50;
 console.log(discountPercentage);
 
 var discountDecimal = discountPercentage/100;
@@ -71,14 +71,13 @@ console.log(discountDecimal);
 var descriptionOfItem = "New iWatch";
 console.log(descriptionOfItem);
 
-var salesTaxPercentage = 7
+var salesTaxPercentage = 10
 var salesTaxDecimal = salesTaxPercentage/100;
 console.log(salesTaxDecimal);
 
 
 var discountAmount = originalPrice * discountDecimal;
 console.log(discountAmount);
-
 
 
 //Result Variables
@@ -88,6 +87,7 @@ console.log(priceOfTheItemWithoutTax);
 
 var saleTaxAmount = priceOfTheItemWithoutTax * salesTaxDecimal;
 console.log(saleTaxAmount);
+
 
 var priceOfTheItemWithTax = priceOfTheItemWithoutTax + saleTaxAmount;
 console.log(priceOfTheItemWithTax);
