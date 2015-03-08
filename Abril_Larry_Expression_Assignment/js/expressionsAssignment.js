@@ -43,10 +43,66 @@ var totalMonthlyBills = parseInt(electricity) + parseInt(water) + parseInt(cable
  console.log(parseInt(reminderAfterPayingBills) + " will be your leftover money after paying your monthly bill.");
 
 //I am using an assign operator other than = symbol to find the annual monthly amount.
- var annualMonthlyAmount = totalMonthlyBills *= 12;
- console.log("If you continue to pay the bills monthly sharp. $" + "Your annual monthly amount is going to be  $" + annualMonthlyAmount + "\n and your reminder money $" + reminderAfterPayingBills *12 + ".");
+ var annualMonthlyAmount = totalMonthlyBills;
+ annualMonthlyAmount*= 12;
+ console.log("If you continue to pay the bills monthly sharp. " + "Your annual monthly amount is going to be  $" + annualMonthlyAmount + " and your reminder money $" + reminderAfterPayingBills *12 + ".");
+
+//test result.
+/*
+
+147 for electricity
+40 for water
+127 for cable
+150 for car insurance
+882 for rent
+
+total = 1346
+
+pay stub = 4200
+
+    pay stub      4200
+ -  monthly total 1346
+------------------------
+ = 2854 " leftover"
+
+    monthly bills   1346
+ *  12 months
+------------------------
+= 16152   annual bill amount
 
 
+    2854   leftover
+ *  12 months
+-------------------------
+= 34248   reminder money annually
+
+==================================
+ 154 for electricity
+ 75 for water
+ 143 for cable
+ 90 for car insurance
+ 1050 for rent
+
+ total = 1346
+
+ pay stub = 
+
+ pay stub      4200
+ -  monthly total 1346
+ ------------------------
+ = 2854 " leftover"
+
+ monthly bills   1346
+ *  12 months
+ ------------------------
+ = 16152   annual bill amount
+
+
+ 2854   leftover
+ *  12 months
+ -------------------------
+ = 34248   reminder money annually
+ */
 
 
 
