@@ -85,7 +85,7 @@ pay stub = 4200
 
  total = 1346
 
- pay stub = 
+ pay stub =
 
  pay stub      4200
  -  monthly total 1346
