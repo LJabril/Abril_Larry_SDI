@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="056c408a-c402-4ea0-9fb8-b9b36a0fece2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 5/js/day5.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 5/day5.html" afterPath="$PROJECT_DIR$/Day 5/day5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Abril_Larry_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day5.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 5/js/day5.js">
+      <file leaf-file-name="day5nestingifs.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 5/js/day5nestingifs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37313432" vertical-offset="50" max-vertical-offset="720">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.7364568" vertical-offset="67" max-vertical-offset="840">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day5.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 5/day5.html">
+      <file leaf-file-name="day5nestingifs.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 5/day5nestingifs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="240">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -92,6 +90,9 @@
         <option value="$PROJECT_DIR$/day5/day5.html" />
         <option value="$PROJECT_DIR$/day5/js/day5.js" />
         <option value="$PROJECT_DIR$/Day 5/js/day5.js" />
+        <option value="$PROJECT_DIR$/Day 5/day5.html" />
+        <option value="$PROJECT_DIR$/Day 5/day5nestingifs.html" />
+        <option value="$PROJECT_DIR$/Day 5/js/day5nestingifs.js" />
       </list>
     </option>
   </component>
@@ -99,8 +100,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="393" />
-    <option name="y" value="47" />
+    <option name="x" value="407" />
+    <option name="y" value="70" />
     <option name="width" value="929" />
     <option name="height" value="780" />
   </component>
@@ -278,7 +279,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="393" y="47" width="929" height="780" extended-state="0" />
+    <frame x="407" y="70" width="929" height="780" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -536,18 +537,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 5/js/day5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4477612" vertical-offset="0" max-vertical-offset="720">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 5/day5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+        <state vertical-scroll-proportion="0.2276176" vertical-offset="0" max-vertical-offset="659">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5/js/day5.js">
+    <entry file="file://$PROJECT_DIR$/Day 5/day5nestingifs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37313432" vertical-offset="50" max-vertical-offset="720">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="240">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 5/js/day5nestingifs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7364568" vertical-offset="67" max-vertical-offset="840">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
