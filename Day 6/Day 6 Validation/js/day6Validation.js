@@ -41,6 +41,6 @@ Day 6 Validation
 
      //re-prompt
      userInput = prompt("Please enter yes or no.");
-     
+
 
  }

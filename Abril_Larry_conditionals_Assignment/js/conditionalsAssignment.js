@@ -65,6 +65,42 @@ Conditionals Assignment
      console.log("If you budget is $" + budgetForTickets + ". Then your change is $" + change + ".");
  } else if (budgetForTickets < totalTicketPrice){
      console.log("If your budget is $" + budgetForTickets + " You don't have enough.Therefore you don't get change.");
- } else if (budgetForTickets < totalTicketPrice){
-     console.log("You will need $" + change + " to buy the tickets.");
+     console.log("You will need  $" + (change * -1) + " to buy the tickets.");
  }
+
+
+ /*
+ TEST THE VALUE
+ --TEST 1--
+  to check cars needed.
+ ~ Qty of People going  2 = All fit in 1 vehicle (1 vehicle hold up to 5 people)
+
+ ~ Qty of tickets to buy  2
+ ~ Price of tickets       30
+                        *________
+        TotalAmount       60
+
+
+ ~ Budget        100
+ ~ Total Amount  60
+              -______
+  money left     40
+
+
+
+  --TEST 1--
+  to check cars needed.
+  ~ Qty of People going  6 = You will need more than 1 vehicle (1 vehicle hold up to 5 people)
+
+  ~ Qty of tickets to buy  6
+  ~ Price of tickets       30
+                        *________
+         TotalAmount       180
+
+
+  ~ Budget        150
+  ~ Total Amount  180
+               -______
+   money left     -30
+
+  */
