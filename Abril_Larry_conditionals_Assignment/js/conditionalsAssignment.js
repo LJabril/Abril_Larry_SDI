@@ -65,4 +65,6 @@ Conditionals Assignment
      console.log("If you budget is $" + budgetForTickets + ". Then your change is $" + change + ".");
  } else if (budgetForTickets < totalTicketPrice){
      console.log("If your budget is $" + budgetForTickets + " You don't have enough.Therefore you don't get change.");
+ } else if (budgetForTickets < totalTicketPrice){
+     console.log("You will need $" + change + " to buy the tickets.");
  }

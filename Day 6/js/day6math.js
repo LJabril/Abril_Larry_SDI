@@ -52,3 +52,4 @@ Day 6 Math
  //.toFixed(#) = round the number to the number of decimal places that match s the # inside of the ()
 
  console.log(areaCircle.toFixed(3));
+
