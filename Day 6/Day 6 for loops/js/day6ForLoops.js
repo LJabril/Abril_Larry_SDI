@@ -7,7 +7,7 @@ Day 6 for Loops
  */
 
 
-//alert("Just testing!");
+alert("Just testing!");
 
  //for(initialization; condition; increment of change) {}
  //we use i A LOT in loops because it stands for interaction
