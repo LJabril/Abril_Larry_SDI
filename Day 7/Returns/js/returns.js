@@ -54,4 +54,4 @@ Day 7 Returns
  var resultTwice =circArea*2;
  console.log("The are twice is " + resultTwice);
 
- 
+
