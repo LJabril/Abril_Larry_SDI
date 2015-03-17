@@ -36,7 +36,7 @@ Day 7 Scope
      console.log("Inside of the function , the perimeter is " + perimeter);
 
      //variables created inside of a function can Not be accessed outside the function . BUT usually will not be.
-     
+
 
  }
  console.log("Before the function call , width = "+ width);
