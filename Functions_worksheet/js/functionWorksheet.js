@@ -22,3 +22,34 @@ var radius = 1;
  //console.log(); the results
  console.log("The area of the circle is "+ circParameter);
 
+
+// Stung Problem
+ //create variables
+ /*
+ var numStings = 8.666666667;
+ var numPound = 170;
+
+ //create loops to calculate stings needed
+ while (numStings < numPound){
+     var stingsNeeded = numStings * numPound;
+
+     numStings += stingsNeeded;
+
+     console.log(stingsNeeded +" are needed to kill an animal ");
+
+ }
+ */
+
+ var stings = 8.666666667
+ var numPound = 170;
+
+ function numStings(s) {
+     //calculate the sting needed
+     var stingNeeded = stings * numPound;
+
+     //return the value
+     return stingNeeded;
+ }
+      var amountSting= numStings(stings);
+ console.log(amountSting +" are needed to kill an animal ");
+
