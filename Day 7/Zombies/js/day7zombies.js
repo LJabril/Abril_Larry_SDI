@@ -7,7 +7,7 @@ Day 7 Zombies
  */
 
 
-//alert("Just testing!");
+alert("Just testing!");
 
  //Zombies Attack
  // We have accidentally a zombie at Full Sail.
@@ -26,6 +26,7 @@ Day 7 Zombies
  //Numbers of day that CDC wants
  var days=8;
 
+ /*
  // create for Loops to calculate zombie number
  for (var i=1; i<=days; i++){
 
@@ -38,8 +39,21 @@ Day 7 Zombies
      //console.log(""); the results
      console.log("There are " + numZombies + " number of zombie on day #" + i+ "!");
  }
-
+*/
 
 
  //how long will it takes to get a million zombies
- 
+
+ var  numDay =1;
+ while (numZombies <= 1000000){
+     //how many new zombie get made every day
+     var newZombie= numZombies*numBites;
+
+     //add the new zombie to our exhausted horde
+     numZombies+= newZombie;
+
+     //console.log(""); the results
+     console.log("There are " + numZombies + " number of zombie on day #" + numDay+ "!");
+     numDay++;
+ }
+ console.log("It will take " + (numDay-1)+ " days to reach a million zombies");
