@@ -76,3 +76,43 @@ var chair = prompt("We are going to find out how many chairs are in the classroo
 
  //COMBINED console.log out
  console.log("The total of chair in the classroom is " + resultTotalChairs+ " and the total chairs that are still open is "+resultChairsOpen + ".");
+
+
+
+
+
+
+ //TEST AREA
+ /*
+ To find how many chairs
+ chairs per table    3
+ total of tables     10 (* Multiply)
+ -----------------------
+ Total of chairs     30
+
+ To find how many chairs are open
+ chairs per table    3
+ total of tables     10 (* Multiply)
+ -----------------------
+ Total of chairs     30
+ total of students   15  (- subtract from the total of chairs)
+ -----------------------
+ Total of chairs open 15
+
+
+  To find how many chairs
+  chairs per table    8
+  total of tables     8 (* Multiply)
+  -----------------------
+  Total of chairs     64
+
+  To find how many chairs are open
+  chairs per table    8
+  total of tables     8 (* Multiply)
+  -----------------------
+  Total of chairs     64
+  total of students   50  (- subtract from the total of chairs)
+  -----------------------
+  Total of chairs open 14
+
+  */
