@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="056c408a-c402-4ea0-9fb8-b9b36a0fece2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8/js/day8Multiples.js" afterPath="$PROJECT_DIR$/Day 8/js/day8Multiples.js" />
-    </list>
+    <list default="true" id="056c408a-c402-4ea0-9fb8-b9b36a0fece2" name="Default" comment="" />
     <ignored path="Abril_Larry_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,18 +24,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day8Multiples.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 8/js/day8Multiples.js">
+      <file leaf-file-name="functionsAssignment.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Abril_Larry_Functions_Assignment/js/functionsAssignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6437995" vertical-offset="502" max-vertical-offset="1260">
-              <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.36241612" vertical-offset="0" max-vertical-offset="1245">
+              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day8Multiples.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 8/day8Multiples.html">
+      <file leaf-file-name="functionsAssignment.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Abril_Larry_Functions_Assignment/functionsAssignment.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
@@ -54,9 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day 5/js/day5.js" />
-        <option value="$PROJECT_DIR$/Day 5/day5.html" />
-        <option value="$PROJECT_DIR$/Day 5/day5nestingifs.html" />
         <option value="$PROJECT_DIR$/Day 5/js/day5nestingifs.js" />
         <option value="$PROJECT_DIR$/Abril_Larry_conditionals_Assignment/conditionalsAssignment.html" />
         <option value="$PROJECT_DIR$/Day 6/day6math.html" />
@@ -105,6 +100,9 @@
         <option value="$PROJECT_DIR$/Day 8/js/day8Anon.js" />
         <option value="$PROJECT_DIR$/Day 8/day8Multiples.html" />
         <option value="$PROJECT_DIR$/Day 8/js/day8Multiples.js" />
+        <option value="$PROJECT_DIR$/Abril_Larry_Functions_Assignment/functionAssignment.html" />
+        <option value="$PROJECT_DIR$/Abril_Larry_Functions_Assignment/functionsAssignment.html" />
+        <option value="$PROJECT_DIR$/Abril_Larry_Functions_Assignment/js/functionsAssignment.js" />
       </list>
     </option>
   </component>
@@ -112,9 +110,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="476" />
+    <option name="x" value="474" />
     <option name="y" value="24" />
-    <option name="width" value="915" />
+    <option name="width" value="925" />
     <option name="height" value="855" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -184,6 +182,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Day 8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Abril_Larry_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Abril_Larry_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Abril_Larry_Functions_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Abril_Larry_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Abril_Larry_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Abril_Larry_Functions_Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -291,7 +321,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="476" y="24" width="915" height="855" extended-state="0" />
+    <frame x="474" y="24" width="925" height="855" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -299,7 +329,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.057923496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.046486486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -335,20 +365,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day4logical/js/day4logical.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="915">
-          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/day4ternary/day4ternary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 4/day4ternary/js/day4ternary.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="870">
@@ -578,6 +594,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20435968" vertical-offset="0" max-vertical-offset="734">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -699,6 +716,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6437995" vertical-offset="502" max-vertical-offset="1260">
           <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abril_Larry_Functions_Assignment/functionsAssignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abril_Larry_Functions_Assignment/js/functionsAssignment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36241612" vertical-offset="0" max-vertical-offset="1245">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
           <folding />
         </state>
       </provider>
