@@ -1,17 +1,17 @@
 /*
-Larry Abril
-3/5/2015
-Section 00
-Day 2 Intro
+ Larry Abril
+ 3/5/2015
+ Section 00
+ Day 2 Intro
  */
 
 //alert("Testing to see if connected");
 
 /*
-Example of a multi-line comment.
+ Example of a multi-line comment.
 
 
-Anything inside of here will not be seen by the computer.
+ Anything inside of here will not be seen by the computer.
  */
 
 // Single line comment. ONLY this line will be ignored.
@@ -75,7 +75,7 @@ while (b === "" || isNaN(b)){
 }
 
 //parseInt
- b = parseInt(b);
+b = parseInt(b);
 
 
 
@@ -157,13 +157,13 @@ console.log(evenOrOdd);
 
 //Assignment Operators
 /*
-= Assigns the values to the variable.
-++ adds 1 to the current valuable of the variable
--- subtract 1 from the current value of a variable
-+= # Adds the # to the current of the variable
--= # subtracts the # from the value of the variable
-/= # divide the current value by the #
-*= # multiply the current value by the number
+ = Assigns the values to the variable.
+ ++ adds 1 to the current valuable of the variable
+ -- subtract 1 from the current value of a variable
+ += # Adds the # to the current of the variable
+ -= # subtracts the # from the value of the variable
+ /= # divide the current value by the #
+ *= # multiply the current value by the number
  */
 
 var assign = prompt("We are going to learn how to use the assignment operator.\nPlease enter a number to start.");
@@ -234,32 +234,32 @@ var no = false;
 
 // find the average quiz grade
 
-var quiz1 = prompt("We are going to find out how many chairs are in the classroom.\nHow many chairs are per each table.");
+var quiz1 = prompt("We are going to find out the quizzes averages.\nPlease enter the grade for quiz 1");
 //validation
 while (quiz1 === "" || isNaN(quiz1)){
     //re-prompt the user to make sure its not blank and its a number
-    quiz1 = prompt("Please do not leave blank and only use numbers.\nHow many chairs are per table?");
+    quiz1 = prompt("Please do not leave blank and only use numbers.\nEnter the grade");
 }
 
 //parseInt
 quiz1 = parseInt(quiz1);
 
 
-var quiz2 = prompt("We are going to find out how many chairs are in the classroom.\nHow many chairs are per each table.");
+var quiz2 = prompt("Please enter the grade for quiz 2.");
 //validation
 while (quiz2 === "" || isNaN(quiz2)){
     //re-prompt the user to make sure its not blank and its a number
-    quiz2 = prompt("Please do not leave blank and only use numbers.\nHow many chairs are per table?");
+    quiz2 = prompt("Please do not leave blank and only use numbers.\nEnter the grade");
 }
 
 //parseInt
 quiz2 = parseInt(quiz2);
 
-var quiz3 = prompt("We are going to find out how many chairs are in the classroom.\nHow many chairs are per each table.");
+var quiz3 = prompt("Please enter the grade for quiz 3.");
 //validation
 while (quiz3 === "" || isNaN(quiz3)){
     //re-prompt the user to make sure its not blank and its a number
-    quiz3 = prompt("Please do not leave blank and only use numbers.\nHow many chairs are per table?");
+    quiz3 = prompt("Please do not leave blank and only use numbers.\nEnter the grade");
 }
 
 //parseInt
@@ -267,7 +267,7 @@ quiz3 = parseInt(quiz3);
 
 
 
-// Average is add them up and divide by the number of quizes.
+// Average is add them up and divide by the number of quizzes.
 var average = (quiz1 + quiz2 + quiz3) /3;
 console.log(average);
 
